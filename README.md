@@ -1,6 +1,6 @@
 # TestWork12071803
 
-## Back-end (vuejs)
+## Back-end (laravel)
 
 ```
 php -r "file_exists('.env') || copy('.env.example', '.env');"
